@@ -1,3 +1,14 @@
+# Pardon the Clutter
+I'm going to get this spun up to handle my rpg stuff, but I haven't used Jekyll in forever, so I'm trying to remember to context for stuff.
+
+QUick check to see if I rememebr how to place images:
+![alt text](/assets/6towers01.png "6 Towers Map")
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rdonoghue/blades-secret-smugglers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
